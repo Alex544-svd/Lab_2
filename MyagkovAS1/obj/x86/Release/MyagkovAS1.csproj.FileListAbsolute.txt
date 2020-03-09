@@ -1,0 +1,10 @@
+C:\Users\alexm\source\repos\MyagkovAS1\MyagkovAS1\bin\x86\Release\MyagkovAS1.exe.config
+C:\Users\alexm\source\repos\MyagkovAS1\MyagkovAS1\bin\x86\Release\MyagkovAS1.exe
+C:\Users\alexm\source\repos\MyagkovAS1\MyagkovAS1\bin\x86\Release\MyagkovAS1.pdb
+C:\Users\alexm\source\repos\MyagkovAS1\MyagkovAS1\obj\x86\Release\MyagkovAS1.csprojAssemblyReference.cache
+C:\Users\alexm\source\repos\MyagkovAS1\MyagkovAS1\obj\x86\Release\MyagkovAS1.Form1.resources
+C:\Users\alexm\source\repos\MyagkovAS1\MyagkovAS1\obj\x86\Release\MyagkovAS1.Properties.Resources.resources
+C:\Users\alexm\source\repos\MyagkovAS1\MyagkovAS1\obj\x86\Release\MyagkovAS1.csproj.GenerateResource.cache
+C:\Users\alexm\source\repos\MyagkovAS1\MyagkovAS1\obj\x86\Release\MyagkovAS1.exe
+C:\Users\alexm\source\repos\MyagkovAS1\MyagkovAS1\obj\x86\Release\MyagkovAS1.pdb
+C:\Users\alexm\source\repos\MyagkovAS1\MyagkovAS1\obj\x86\Release\MyagkovAS1.csproj.CopyComplete
